@@ -12,7 +12,7 @@
             <div class="space-y-6">
                 {{-- Hero Image --}}
                 <div class="relative h-64 rounded-2xl overflow-hidden shadow-lg">
-                    <img src="{{ asset('img/laundry-machine.jpg') }}"
+                    <img src="{{ asset('img/booking.jpg') }}"
                         alt="Laundry Facility"
                         class="w-full h-full object-cover">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
